@@ -26,5 +26,10 @@ namespace Octopie
         {
             this.InitializeComponent();
         }
+
+        private void OnButtonClicked(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(LoginPage));
+        }
     }
 }
