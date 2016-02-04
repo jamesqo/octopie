@@ -1,4 +1,4 @@
-# octopie
+# Octopie
 
 TBC
 
